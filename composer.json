@@ -1,6 +1,9 @@
 {
     "name": "kelixlabs/kelix-barcode",
-    "description": "",
+    "description": "1D and 2D barcode generator (for laravel 4)",
+    "license": "MIT",
+    "keywords": ["Barcode","1D Barcode","2D Barcode","laravel4"],
+    "homepage": "https://github.com/kelixlabs/kelix-barcode",
     "authors": [
         {
             "name": "KecambahLinux",
